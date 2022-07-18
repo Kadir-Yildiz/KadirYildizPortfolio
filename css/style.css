@@ -30,6 +30,8 @@ img {
     margin-left: 300px;
 }
 
+
+
 /* Next & previous buttons */
 .prev,
 .next {
@@ -100,6 +102,13 @@ img {
 .fade {
     animation-name: fade;
     animation-duration: 10s;
+}
+
+#logomky {
+    display: block;
+    width: 270px;
+    border: 8px solid #2c2f3f;
+
 }
 
 @keyframes fade {
